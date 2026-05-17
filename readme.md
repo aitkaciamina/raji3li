@@ -1,4 +1,4 @@
-# 📝 Raji3li Platform: Online Examination & Academic Tracking Architecture
+#  Raji3li Platform: Online Examination & Academic Tracking Architecture
 
 > **Note on Availability:** The source code for this project is hosted within a private academic registry. This repository serves as a public architectural case study and system design breakdown.
 >
