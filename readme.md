@@ -2,7 +2,7 @@
 
 > **Note on Availability:** The source code for this project is hosted within a private academic registry. This repository serves as a public architectural case study and system design breakdown.
 >
->  **Project Recognition:** You can view the project milestone announcement and team implementation notes on [https://www.linkedin.com/posts/amina-aitkaci-51aa41335_a-while-back-i-teamed-up-with-some-brilliant-ugcPost-7461755289965580288-YsfM?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFRWVaYB7NYX82nH5IOblYzOrHCuGV7xBxw](LinkedIn_URL_Here).
+>  **Project Recognition:** You can view the project milestone announcement and team implementation notes on [https://www.linkedin.com/posts/amina-aitkaci-51aa41335_a-while-back-i-teamed-up-with-some-brilliant-ugcPost-7461755289965580288-YsfM/](LinkedIn_URL_Here).
 
 Raji3li is an advanced online examination platform engineered to streamline student assessments, log relational testing matrices, and optimize academic review workflows.
 
